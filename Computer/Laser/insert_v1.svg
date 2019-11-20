@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg width="454" height="387.5" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:slic3r="http://slic3r.org/namespaces/slic3r">
+  <g>
+    <polygon slic3r:type="contour" points="40.5,3.21 73.5,3.21 73.5,0 380.5,0 380.5,3.21 413.5,3.21 413.5,0 443.24,0 453.631647,10.391666 453.989977,10.749993 454,10.74 454,376.846976 453.989983,376.836992 443.682432,387.144575 443.327008,387.5 413.5,387.5 413.5,384.3 380.5,384.3 380.5,387.5 73.5,387.5 73.5,384.3 40.5,384.3 40.5,387.5 10.653,387.5 0.355099,377.202079 0,376.846976 0,10.74 10.74,0 40.5,0" style="fill: white" />
+  </g>
+</svg>
